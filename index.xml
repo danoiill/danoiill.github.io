@@ -6,8 +6,15 @@
     <description>Recent content on Exclusive Barbershop, NJ</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 19:42:45 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Barbers</title>
+      <link>http://localhost:1313/barbers/</link>
+      <pubDate>Mon, 15 Dec 2025 19:42:45 -0500</pubDate>
+      <guid>http://localhost:1313/barbers/</guid>
+      <description>&lt;h1&gt;Meet Our Barbers&lt;/h1&gt;&#xA;&#xA;&lt;style&gt;&#xA;.barber-grid {&#xA;  display: grid;&#xA;  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));&#xA;  gap: 20px;&#xA;  margin-top: 30px;&#xA;}&#xA;&#xA;.barber-card {&#xA;  border: 1px solid #ccc;&#xA;  padding: 20px;&#xA;  border-radius: 8px;&#xA;}&#xA;&#xA;.barber-card h3 {&#xA;  margin-top: 0;&#xA;}&#xA;&#xA;.contact-btn {&#xA;  display: inline-block;&#xA;  margin-top: 10px;&#xA;  padding: 8px 14px;&#xA;  background: black;&#xA;  color: white;&#xA;  text-decoration: none;&#xA;  border-radius: 4px;&#xA;}&#xA;&lt;/style&gt;&#xA;&#xA;&lt;div class=&#34;barber-grid&#34;&gt;&#xA;&#xA;  &lt;div class=&#34;barber-card&#34;&gt;&#xA;    &lt;h3&gt;Antonio Cruz&lt;/h3&gt;&#xA;    &lt;p&gt;Skin fades &amp; classic cuts&lt;/p&gt;&#xA;    &lt;a class=&#34;contact-btn&#34; href=&#34;http://localhost:1313/contact/&#34;&gt;Contact&lt;/a&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;div class=&#34;barber-card&#34;&gt;&#xA;    &lt;h3&gt;Marcus Lee&lt;/h3&gt;&#xA;    &lt;p&gt;Beard grooming specialist&lt;/p&gt;&#xA;    &lt;a class=&#34;contact-btn&#34; href=&#34;http://localhost:1313/contact/&#34;&gt;Contact&lt;/a&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;div class=&#34;barber-card&#34;&gt;&#xA;    &lt;h3&gt;Javier Morales&lt;/h3&gt;&#xA;    &lt;p&gt;Modern &amp; trendy styles&lt;/p&gt;&#xA;    &lt;a class=&#34;contact-btn&#34; href=&#34;http://localhost:1313/contact/&#34;&gt;Contact&lt;/a&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;div class=&#34;barber-card&#34;&gt;&#xA;    &lt;h3&gt;Derrick Johnson&lt;/h3&gt;&#xA;    &lt;p&gt;Precision lineups&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hello</title>
       <link>http://localhost:1313/posts/hello/</link>
